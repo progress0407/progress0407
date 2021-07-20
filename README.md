@@ -1,4 +1,7 @@
-### Hi there 👋
+## Philz's Github ~ :)
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
+<!-- ### Hi there 👋 -->
 
 <!--
 **progress0407/progress0407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
