@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
 
-### Worlrd Hello ~!! 👋
+### World, Hello ~!! 👋
 
 <!--
 **progress0407/progress0407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
