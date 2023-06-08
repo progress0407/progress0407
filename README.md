@@ -14,9 +14,10 @@
 
 ## 👔 Career & Experience 
 
-- Happy Tech - Wewoot
-- Woowacourse - BE
-- LIG System
+- Happy Technology's Wewoot | Backend Developer
+- Woowacourse | Backend Crew
+- LIG System | System Maintenance
+- Yonam Institute of Technology | Electorics
 
 ## 💻 Familiar tech stack 🔧
 
