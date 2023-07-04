@@ -1,4 +1,4 @@
-# 🌱 Philz's Github :)
+# 🌱 Philo's Github :)
 
 
 ## 🌍 World, Hello ~!! 👋
