@@ -4,7 +4,7 @@
 ## 🌍 World, Hello ~!! 👋
 
 - 🔭 I'm **Backend Developer** and still Learning about BE and Devops
-- 💪🏼 I love fitness, running, and talking about dev.  
+- 💪🏼 I love [**fitness**](https://progress0407.tistory.com/140), [**running**](https://progress0407.tistory.com/150), and talking about dev.  
 - 📝 I post regularly on my personal **blog**
   - [**Tistory**](https://progress0407.tistory.com/) (currently in use)
   - [Github Pages](https://progress0407.github.io/)
