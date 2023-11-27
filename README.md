@@ -15,7 +15,8 @@
 
 ## 👔 Career & Experience 
 
-- Happy Technology's Wewoot | Backend Developer
+- EduEnv's Dolphin Coding | Server Developer
+- Happy Technology's Wewoot | Server Developer
 - Woowacourse | Backend Crew
 - LIG System | System Maintenance
 - Yonam Institute of Technology | Electorics
