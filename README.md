@@ -5,7 +5,7 @@
 
 - 🔭 I'm **Server Developer** and still Learning about Backend and DevOps
 - 📝 I post regularly on my personal **blog**
-  - [**Tistory**](https://progress0407.tistory.com/) (currently in use)
+  - [**Tistory**](https://progress0407.tistory.com/) **(currently in use)**
   - [Github Pages](https://progress0407.github.io/)
   - [Velog](https://velog.io/@progress0407)
   - [Naver](https://blog.naver.com/progress0407)
@@ -32,7 +32,7 @@
   <br />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   &nbsp; 
-  <img src="https://img.shields.io/badge/Git-05032?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   &nbsp; 
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
   &nbsp; 
