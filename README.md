@@ -3,7 +3,7 @@
 
 ## 🌍 World, Hello ~!! 👋
 
-- 🔭 I'm **Server Developer** and still Learning about Backend and DevOps
+- 🔭 I'm **Server Developer** and still Learning about Backend and DevOps, infra
 - 📝 I post regularly on my personal **blog**
   - [**Tistory**](https://progress0407.tistory.com/) **(currently in use)**
   - [Github Pages](https://progress0407.github.io/)
@@ -13,9 +13,16 @@
 - 📫 My **Email** is Here :) progress0407@gmail.com
 
 
+## 🕊️ Development Philosophy
+
+- I think it's important to find a balance between simplicity and maintainability of the software
+- I try to avoid thinking about flexible structures in advance. (YAGNI principle)
+- Good code is code that makes life less difficult for my coworkers
+
+
 ## 👔 Career & Experience 
 
-- EduEnv's Dolphin Coding | Server Developer
+- Developing regular and subscription Payments in MSA environment
 - Happy Technology's Wewoot | Server Developer
 - Woowacourse | Backend Crew
 - LIG System | System Maintenance
@@ -38,8 +45,8 @@
   &nbsp; 
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
   <br />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
 </p>
 
 <!--
