@@ -1,7 +1,7 @@
 # 🌱 Philo's Github :)
 
 
-## 🌍 World, Hello ~!! 👋
+## 🌍 World, Hello ~! 👋
 
 - 🔭 I'm **Server Developer** and still Learning about Backend and DevOps, infra
 - 📝 I post regularly on my personal **blog**
